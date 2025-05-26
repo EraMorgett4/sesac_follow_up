@@ -1,0 +1,6 @@
+sesac/bike/requirements-dev.txt:
+python==3.13.*
+ipykernel==6.15.*
+notebook==6.5.*
+jupyter_client==7.3.*
+pyzmq==24.0.1

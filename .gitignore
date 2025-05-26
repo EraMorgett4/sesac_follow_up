@@ -1,0 +1,5 @@
+# Ignore processed images and assets
+opencv/processed/
+opencv/processed2/
+opencv/assets/
+opencv/histograms/
