@@ -1,5 +1,5 @@
 # Ignore processed images and assets
 opencv/processed/
-opencv/processed2/
+opencv/processed_color/
 opencv/assets/
 opencv/histograms/
